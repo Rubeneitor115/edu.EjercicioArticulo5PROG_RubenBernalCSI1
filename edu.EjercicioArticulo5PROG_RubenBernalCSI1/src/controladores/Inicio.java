@@ -4,7 +4,7 @@
  * Crea un algoritmo que reciba un número entero positivo y calcule la suma de sus dígitos.
  */
 
-package edu.EjercicioArticulo5PROG_RubenBernalCSI1;
+package controladores;
 
 import java.util.Scanner;
 
